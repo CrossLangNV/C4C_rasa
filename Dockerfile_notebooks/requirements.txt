@@ -1,0 +1,8 @@
+fastapi==0.68.0
+unicorn==1.0.3
+dkpro-cassis==0.5.1
+rasa[full]==2.8.2
+pytest==6.0.1
+ipython
+jupyter
+jupyterlab

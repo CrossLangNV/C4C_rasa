@@ -1,0 +1,1 @@
+docker run -it --rm -p 5005:5005 --entrypoint /bin/bash rasa_docker
