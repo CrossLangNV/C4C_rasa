@@ -20,4 +20,4 @@ One can then send a json to `localhost:5005/webhooks/rest/webhook`:
 }
 ```
 
-Or via command line via `rasa shell`, see ![swagger](https://github.com/CrossLangNV/C4C_rasa/tree/main/media/C4C_2.png?raw=true)
+Or via command line via `rasa shell`, see ![example](https://github.com/CrossLangNV/C4C_rasa/tree/main/media/C4C_2.png?raw=true)
